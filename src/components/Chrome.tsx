@@ -32,7 +32,7 @@ export function RateTicker({ live }: { live: { city: string; rate22: number; rat
             Live rates
           </span>
           <span className="hidden text-[0.6rem] uppercase tracking-[0.2em] text-ink-400 md:inline">
-            IBJA benchmark
+            Ravin M
           </span>
         </div>
 
