@@ -104,7 +104,7 @@ export function Hero({ rates }: HeroProps) {
       <div className="relative mx-auto grid max-w-[1600px] grid-cols-1 items-start gap-12 px-4 sm:px-6 lg:grid-cols-12 lg:gap-14 lg:px-10">
         {/* ---------------- left: editorial ---------------- */}
         <div className="lg:col-span-7">
-          <SectionLabel tone="gold">Today&rsquo;s rate desk · Bengaluru HQ</SectionLabel>
+          <SectionLabel tone="gold">Today&rsquo;s rate desk · Bengaluru HQ - Developed By Ravin</SectionLabel>
 
           <h1 className="mt-6 font-display text-[clamp(2.9rem,7.4vw,5.6rem)] leading-[0.94] font-medium text-paper">
             Sell gold at
