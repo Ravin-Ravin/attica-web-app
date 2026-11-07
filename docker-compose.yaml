@@ -7,10 +7,7 @@ services:
     container_name: attica-web-app
 
     ports:
-      - "3000:3000"
-
-    environment:
-      NODE_ENV: production
-      PORT: 3000
+      - "3000:80"
 
     restart: unless-stopped
+
