@@ -29,7 +29,7 @@ export function RateTicker({ live }: { live: { city: string; rate22: number; rat
             <span className="relative inline-flex h-1.5 w-1.5 rounded-full bg-gold-300" />
           </span>
           <span className="text-[0.6rem] font-bold uppercase tracking-[0.26em] text-gold-300">
-            Live rates
+            Live rates !
           </span>
           <span className="hidden text-[0.6rem] uppercase tracking-[0.2em] text-ink-400 md:inline">
             Ravin M
